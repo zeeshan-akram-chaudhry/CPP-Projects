@@ -1,11 +1,3 @@
-/***********************************
-	Lab: 06
-	Task: 03
-	Developer:
-		Roll #: F25BBITAB015
-		Name: Zeeshan Akram Chaudhry
-***********************************/
-
 #include<iostream>
 using namespace std;
 int main()
