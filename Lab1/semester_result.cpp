@@ -1,11 +1,3 @@
-/***********************************
-	Lab:	04
-	Task:	02
-	Developer:
-		Roll #:	F25BBITAB020
-		Name:	Zainab		
-***********************************/
-
 #include<iostream>
 using namespace std;
 int main()
